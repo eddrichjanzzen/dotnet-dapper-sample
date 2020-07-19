@@ -11,5 +11,6 @@
     <None Remove="SqlScripts\StoredProcedures\Todo_Delete.sql" />
     <None Remove="SqlScripts\StoredProcedures\Todo_GetById.sql" />
     <None Remove="SqlScripts\StoredProcedures\Todo_GetAll.sql" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
   </ItemGroup>
 </Project>
